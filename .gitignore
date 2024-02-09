@@ -155,6 +155,7 @@ cython_debug/
 /excluded/
 
 .bash_history
+.python_history
 .keras/
 .local/
 .nv/
